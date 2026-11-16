@@ -1,431 +1,143 @@
 # Velqora PDF 10.3
 
-> **Your PDFs. Your Freedom.**
+**Your PDFs. Your Freedom.**
 
-Meet Velqora PDF 10.3 — a completely free, offline PDF editor for macOS, Windows and Linux.
+**A free, offline PDF editor for Windows, macOS and Linux.** Edit documents, annotate pages, organize PDFs and make scanned documents searchable — without subscriptions, accounts or OCR credits.
 
-Powerful PDF editing shouldn't require an expensive subscription. Velqora PDF gives you the tools to edit documents, annotate pages, organize files and make scanned PDFs searchable, all in one application.
+[**Download Velqora PDF**](https://kaasplank3333.itch.io/velqora-pdf) · [**Official website**](https://velqorapdf.pages.dev/) · [**Get support**](https://www.cheesy-studios.22web.org/neem-contact-met-ons-op-faq)
 
-Whether you're correcting a typo, reviewing schoolwork, organizing documents or working with scanned pages, Velqora helps you get things done.
+> **Free to use · Source-available · Local document processing**
+>
+> Velqora PDF's source code is available for inspection and private modification. Publishing or distributing modified versions is **not permitted without written permission**, subject to the terms of the repository's `LICENSE` file and applicable third-party licenses. **Source-available is not the same as OSI-approved open source.**
 
-**100% free. No subscriptions. No accounts. No OCR credits.**
+## Why Velqora PDF?
 
-Your documents stay on your device.
+PDF editing should be straightforward and accessible. Velqora PDF brings essential editing, annotation, page-management and OCR tools into one desktop application. Its supported document-processing features work locally, so you don't have to upload PDFs to an online editor.
 
-📥 Ready to get started? Scroll to the bottom of this page to download Velqora PDF and find the installation instructions.
+## Features
 
-## ✨ Everything You Need to Work with PDFs
+### Edit text and images
 
-### 📝 Edit Text & Images
+- Edit existing PDF text, retaining original formatting and fonts where possible.
+- Change text colors and choose alternative fonts when needed.
+- Add text, movable text boxes and images.
+- Adjust fonts, sizes, colors and image positions.
 
-Make changes directly to your PDF documents without having to recreate them.
+### Annotate and draw
 
-- Edit existing PDF text while keeping the original words and formatting where possible.
-- Change text colors.
-- Add new text and movable text boxes.
-- Insert images and adjust their positions.
-- Choose your preferred fonts, sizes and colors.
-- Preserve original fonts whenever possible.
-- Select an alternative font when characters are missing.
+- Highlight text in **yellow, green, blue, pink or orange**.
+- Strike through text while preserving its original color, including multicolored selections.
+- Draw with a **pen, marker or brush** and customize colors and line thickness.
+- Add notes, underlines and shapes; undo edits or remove individual annotations.
+- Find drawing and highlighting controls in the **Comments** panel.
 
-From small corrections to more extensive document edits, Velqora gives you greater flexibility over your PDFs.
+### Offline OCR
 
-### 🎨 Highlight, Comment & Draw
+- Recognize text in scanned PDF pages locally, including background recognition.
+- Search, select and copy recognized text.
+- Rerun OCR on one page or an entire document.
+- Supported languages: **Dutch, English, German, French, Spanish and Turkish**.
 
-Review, annotate and personalize documents using a collection of built-in tools.
+**No OCR credits, external account or additional OCR payment required.**
 
-- Highlight text in yellow, green, blue, pink or orange.
-- Strike through text while preserving its original color, even across multicolored selections.
-- Draw directly on pages using a pen, marker or brush.
-- Customize drawing colors and line thickness.
-- Add notes, underlines and shapes.
-- Undo changes and remove individual annotations.
-- Access highlighting and drawing tools from the redesigned Comments panel.
+### Manage pages
 
-Perfect for studying, reviewing documents, providing feedback and keeping track of important information.
+- Add, delete, rotate and reorder pages.
+- Merge multiple PDFs and extract selected pages.
+- Navigate with thumbnails, continuous scrolling and page jumping.
 
-### 🔍 Powerful Offline OCR
+### Learn as you go
 
-Turn scanned documents into searchable, selectable text — completely free.
+- Interactive welcome tour.
+- Built-in, searchable Help Center with offline guides.
 
-Velqora PDF includes built-in Optical Character Recognition (OCR), allowing you to work with scanned documents without relying on online services.
+## Downloads
 
-- Automatically recognize text in scanned PDF pages in the background.
-- Search for words and phrases in recognized text.
-- Select and copy text directly from scanned pages.
-- Copy using ⌘C on macOS or Ctrl+C on Windows and Linux.
-- Rerun OCR on individual pages or the entire document.
-- Process documents locally, without uploading them to a server.
+Download official builds from [Velqora PDF on itch.io](https://kaasplank3333.itch.io/velqora-pdf).
 
-**Supported OCR languages:** Dutch · English · German · French · Spanish · Turkish
-
-No OCR credits. No subscriptions. No additional payments.
-
-### 📄 Organize, Merge & Manage Pages
-
-Take control of how your documents are structured.
-
-- Add new pages to existing PDFs.
-- Remove unnecessary pages.
-- Rotate pages into the correct orientation.
-- Rearrange pages into any order.
-- Combine multiple PDFs into a single document.
-- Extract selected pages into separate PDF files.
-- Navigate using page thumbnails.
-- Scroll continuously through documents or jump directly to a specific page.
-
-Whether you're combining assignments, organizing paperwork or preparing documents for sharing, Velqora makes page management straightforward.
-
-### 📚 Built-in Help Center & Welcome Tour
-
-Velqora PDF is designed to be approachable, even if you've never used a PDF editor before.
-
-- Get started with an interactive welcome tour.
-- Explore the built-in Help Center.
-- Search for instructions without leaving the application.
-- Find step-by-step guides for PDF editing, annotations and OCR.
-- Access help content offline.
-
-No external account or internet connection is required to access the included guides.
-
-## 🔒 Privacy Comes First
-
-Your PDFs are yours. They should stay that way.
-
-Velqora PDF is designed around local document processing.
-
-- **Offline editing:** Work on PDFs without an internet connection.
-- **Local OCR:** Recognize scanned text directly on your computer.
-- **No mandatory cloud uploads:** Your documents don't need to be sent to an external server.
-- **No account required:** Start working without registration.
-- **No subscriptions:** Access the supported tools without recurring payments.
-- **No OCR credits:** Recognize text without purchasing additional usage allowances.
-
-Your documents remain under your control.
-
-## 💻 Available for macOS, Windows & Linux
-
-Velqora PDF 10.3 is available for three major desktop operating systems.
-
-| Platform | Available version |
-| --- | --- |
-| 🍎 macOS Intel | 64-bit Intel Macs |
-| 🍎 macOS Apple Silicon | Apple M-series Macs |
-| 🪟 Windows | 64-bit Intel and AMD computers |
-| 🐧 Linux | 64-bit Intel and AMD computers |
-
-The Linux edition is provided as a portable AppImage.
-
-**Compatibility note:** The Intel Mac version targets macOS 11 Big Sur and later, but direct testing on Big Sur 11.7.11 is still pending. The Linux AppImage passed 75 automated checks in a test environment, although direct Ubuntu and Manjaro desktop testing has not yet been completed.
-
-## ❤️ Free Means Free
-
-Velqora PDF was created with a simple idea: useful PDF tools should be accessible to everyone.
-
-There are no paid tiers, hidden OCR charges or subscriptions required to use its supported features.
-
-- ✅ Free PDF editing
-- ✅ Free annotations and drawing tools
-- ✅ Free offline OCR
-- ✅ Free page management
-- ✅ No account required
-- ✅ No subscription
-- ✅ No OCR credits
-
-Just download the application and start working with your documents.
-
-## 🚀 Download Velqora PDF
-
-Ready to experience PDF editing without subscriptions?
-
-Velqora PDF 10.3 is available for macOS, Windows and Linux.
-
-
-Need help installing or opening the application? Detailed installation instructions and troubleshooting guides for macOS, Windows and Linux are available in the **Install Instructions** section below the downloads.
-
-For additional support, you can also contact me through the Cheesy Studios website.
-
-## 🧀 Made by Cheesy Studios
-
-Velqora PDF is an independent hobby project developed by Cheesy Studios.
-
-I created Velqora PDF because I believe everyday PDF editing should be free, practical and accessible — without unnecessary restrictions, expensive subscriptions or mandatory online services.
-
-I continue to develop and improve Velqora PDF with a focus on useful features, a better user experience and keeping document processing local.
-
-Made independently. Built with curiosity. Available for everyone.
-
-🌐 Cheesy Studios Website  
-✉️ Contact Me
-
-**Velqora PDF 10.3**  
-*Your documents. Your tools. Your freedom.*
-
----
-
-# 📥 Download & Installation
-
-## Velqora PDF 10.3 — macOS, Windows & Linux
-
-Thank you for downloading Velqora PDF! Follow the instructions below to install and launch the application on your device.
-
-Velqora PDF is completely free to download and use. No account, subscription or activation key is required.
-
-## 💻 Choose Your Download
-
-Select the version that matches your operating system and processor.
-
-| Operating System | Download | Architecture |
+| Platform | File | Architecture |
 | --- | --- | --- |
-| 🍎 macOS Intel | `Velqora-PDF-10.3-macOS-Intel.dmg` | Intel 64-bit |
-| 🍎 macOS Apple Silicon | `Velqora-PDF-10.3-macOS-AppleSilicon.dmg` | Apple M1/M2/M3/M4 and newer |
-| 🪟 Windows | `Velqora-PDF-10.3-Windows-x64.zip` | 64-bit Intel/AMD |
-| 🐧 Linux | `Velqora-PDF-10.3-Linux-x86_64.AppImage` | 64-bit Intel/AMD |
+| Windows | `Velqora-PDF-10.3-Windows-x64.zip` | x86-64 (Intel / AMD) |
+| macOS — Intel | `Velqora-PDF-10.3-macOS-Intel.dmg` | Intel 64-bit |
+| macOS — Apple Silicon | `Velqora-PDF-10.3-macOS-AppleSilicon.dmg` | Apple M-series |
+| Linux | `Velqora-PDF-10.3-Linux-x86_64.AppImage` | x86-64 (Intel / AMD) |
 
-All downloads are available at the bottom of the official Velqora PDF page.
+### Windows
 
-## 🍎 macOS Installation
+1. Download the Windows ZIP and select **Extract All**.
+2. Open the extracted folder and run `Velqora PDF.exe`.
+3. Keep the extracted application files together; don't run the executable directly from inside the ZIP.
 
-### Step 1 — Download
+Windows may show a SmartScreen warning for independently distributed software. Verify that your download came from the official page before deciding whether to proceed.
 
-Choose the correct version for your Mac:
+### macOS
 
-- **Intel Mac:** Download the Intel DMG.
-- **Apple Silicon Mac:** Download the Apple Silicon DMG.
+1. Download the DMG matching your Mac's processor (**Apple menu → About This Mac**).
+2. Open the DMG and drag **Velqora PDF** into **Applications**.
+3. Open the application from Finder.
 
-To check your Mac's processor, open **Apple menu → About This Mac**.
+**Unsigned / not notarized:** macOS may block the first launch. After verifying the download, check **System Settings → Privacy & Security** for an **Open Anyway** option. On older macOS versions, look under **System Preferences → Security & Privacy**. See [Apple's guidance on opening Mac apps safely](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac).
 
-### Step 2 — Install
+**Compatibility:** The Intel build targets macOS 11 Big Sur or later and has been tested on macOS 15. Direct testing on macOS 11.7.11 is still pending. The Apple Silicon build is intended for compatible Apple Silicon Macs.
 
-1. Double-click the downloaded `.dmg` file.
-2. Wait for the disk image to open.
-3. Drag Velqora PDF into the Applications folder.
-4. Open Finder and navigate to Applications.
-5. Double-click Velqora PDF to launch it.
+### Linux
 
-### 🔒 macOS Security Warning
-
-Velqora PDF is independently distributed and has not been notarized by Apple.
-
-macOS may prevent the application from opening because Apple cannot verify the developer.
-
-If this happens:
-
-1. Confirm that you downloaded Velqora PDF from the official itch.io page.
-2. Try opening the application.
-3. Open **System Settings → Privacy & Security**.
-4. Find the security notification about Velqora PDF.
-5. If you trust the application, select **Open Anyway**, when available.
-6. Confirm your choice and launch the application again.
-
-On older macOS versions, open **System Preferences → Security & Privacy** instead.
-
-For detailed instructions, visit Apple's official support guide.
-
-### macOS Compatibility
-
-- The Intel build targets macOS 11 Big Sur and later.
-- The Intel build has been tested on macOS 15.
-- Direct compatibility testing on macOS 11.7.11 is still pending.
-- The Apple Silicon version is intended for compatible Apple Silicon Macs.
-
-Compatibility may vary depending on the macOS version.
-
-## 🪟 Windows Installation
-
-### Step 1 — Download
-
-Download `Velqora-PDF-10.3-Windows-x64.zip`.
-
-### Step 2 — Extract the ZIP
-
-1. Open your Downloads folder.
-2. Right-click the downloaded ZIP file.
-3. Select **Extract All**.
-4. Choose a destination folder.
-5. Click **Extract**.
-
-**Important:** Do not launch Velqora PDF directly from inside the ZIP archive.
-
-### Step 3 — Launch
-
-1. Open the extracted folder.
-2. Find `Velqora PDF.exe`.
-3. Double-click the executable.
-4. Velqora PDF should start.
-
-Keep all extracted application files together. Removing supporting files may prevent the application from working.
-
-### 🛡️ Windows SmartScreen Warning
-
-Windows may display a warning because Velqora PDF is distributed by an independent developer.
-
-If you receive a SmartScreen notification:
-
-- Verify that the download came from the official project page.
-- Check the file using your preferred security software.
-- Proceed only if you trust the application.
-
-### Windows Compatibility
-
-- Designed for 64-bit Windows computers with Intel or AMD processors.
-- ARM-based Windows devices are not officially supported by this download.
-- Compatibility may depend on your Windows version and installed system components.
-
-## 🐧 Linux Installation
-
-Velqora PDF for Linux is distributed as an AppImage, a portable application format.
-
-An AppImage normally does not require a traditional installation, although some system dependencies may be necessary.
-
-### Step 1 — Download
-
-Download `Velqora-PDF-10.3-Linux-x86_64.AppImage` and save the file to your Downloads folder.
-
-### Step 2 — Open a Terminal
-
-Open your terminal and navigate to the Downloads folder:
+Download the AppImage, then run:
 
 ```bash
 cd ~/Downloads
-```
-
-If your browser saved the file somewhere else, navigate to that folder instead.
-
-### Step 3 — Make the AppImage Executable
-
-Run:
-
-```bash
 chmod +x Velqora-PDF-10.3-Linux-x86_64.AppImage
-```
-
-This grants permission to execute the application.
-
-### Step 4 — Launch Velqora PDF
-
-Run:
-
-```bash
 ./Velqora-PDF-10.3-Linux-x86_64.AppImage
 ```
 
-If the required dependencies are available, Velqora PDF should launch.
+Alternatively, use your file manager to mark the AppImage executable and launch it, if your desktop environment supports this.
 
-### Alternative — Install Without Terminal
+**Troubleshooting:**
 
-On supported desktop environments:
+- **Permission denied:** Run the `chmod +x` command above.
+- **FUSE-related error:** Try `./Velqora-PDF-10.3-Linux-x86_64.AppImage --appimage-extract-and-run` (if supported by the AppImage).
+- **Exec format error:** Run `uname -m` and confirm it reports `x86_64`.
+- **Nothing happens / missing libraries:** Launch from a terminal, read the error output and check for distribution-specific dependencies.
 
-1. Open your file manager.
-2. Navigate to the AppImage.
-3. Right-click the file.
-4. Select **Properties → Permissions**.
-5. Enable **Allow executing file as program**, or the equivalent option.
-6. Close the properties window.
-7. Open the AppImage.
+**Compatibility:** The Linux AppImage passed 75 automated checks in a test environment. Direct GUI testing on Ubuntu and Manjaro is still pending; compatibility across distributions is not guaranteed.
 
-Some Linux desktop environments do not support launching AppImages by double-clicking. In that case, use the terminal instructions above.
+## Privacy and offline use
 
-## 🛠️ Linux Troubleshooting
+Velqora PDF is designed for local document processing:
 
-### Problem: Permission Denied
+- PDF editing and OCR do not require cloud uploads.
+- No account or subscription is required.
+- The built-in help content is available offline.
 
-If your terminal displays `Permission denied`, make the file executable:
+Your documents remain on your computer during supported offline operations.
 
-```bash
-chmod +x ~/Downloads/Velqora-PDF-10.3-Linux-x86_64.AppImage
-```
+## Source availability and licensing
 
-Then try launching it again.
+Velqora PDF is **source-available**, **not open source** under the Open Source Initiative definition.
 
-### Problem: FUSE Is Missing
+The intended permissions for the Velqora PDF-owned code are:
 
-Some AppImages require FUSE to mount their contents.
+| Activity | Permission |
+| --- | --- |
+| View and download source code | Allowed |
+| Modify source code privately | Allowed |
+| Publish or distribute modified versions | **Not allowed without written permission** |
+| Redistribute source code or reuse it in another product | **Not allowed without written permission** |
 
-If you encounter a FUSE-related error, try:
+**The actual `LICENSE` file controls the legal terms.** This README is only a summary. Third-party components remain subject to their respective licenses; this project's terms do not override them. If the repository still contains AGPL-licensed code or notices, review those rights before replacing any license files or publishing the source.
 
-```bash
-cd ~/Downloads
-./Velqora-PDF-10.3-Linux-x86_64.AppImage --appimage-extract-and-run
-```
+## Support and feedback
 
-This may allow the application to run without a traditional FUSE mount. If the option is unsupported, additional dependencies may be required.
+Found a bug or need help getting started? Please include your **operating system/version**, **processor architecture**, **Velqora PDF version**, and any **exact error message**.
 
-### Problem: Nothing Happens
+- [Official Velqora PDF website](https://velqorapdf.pages.dev/)
+- [Download Velqora PDF](https://kaasplank3333.itch.io/velqora-pdf)
+- [Contact Cheesy Studios](https://www.cheesy-studios.22web.org/neem-contact-met-ons-op-faq)
 
-If the application does not start, launch it through the terminal:
+## About
 
-```bash
-cd ~/Downloads
-./Velqora-PDF-10.3-Linux-x86_64.AppImage
-```
+Velqora PDF is an independent hobby project by **Cheesy Studios**. I created it to make useful PDF tools more accessible without recurring fees or unnecessary online services. I continue to improve the editing experience, offline features and platform support.
 
-Review the terminal output for errors. Possible causes include missing libraries, incompatible system components or an application startup issue.
+**Made independently. Built with curiosity.**
 
-### Problem: Exec Format Error
-
-Confirm your system architecture:
-
-```bash
-uname -m
-```
-
-The expected result is `x86_64`. This download is not intended for ARM64 Linux devices.
-
-### Problem: Missing Shared Libraries
-
-If the terminal reports a missing shared library, note the exact library name.
-
-Different Linux distributions provide libraries through different package managers. Install only packages that are appropriate for your distribution and come from trusted repositories.
-
-### Linux Compatibility
-
-The Linux AppImage passed 75 automated checks in a Linux testing environment.
-
-Direct desktop testing on Ubuntu and Manjaro has not yet been completed. Compatibility with other Linux distributions has not been fully verified.
-
-## ❓ Installation FAQ
-
-### Do I need an account to install Velqora PDF?
-
-No. No account or registration is required.
-
-### Does Velqora PDF require an internet connection?
-
-No internet connection is required for its supported offline editing and OCR operations.
-
-### Do I need administrator privileges?
-
-Normally, the Windows portable download and Linux AppImage can be run without system-wide installation. macOS installation permissions may depend on your computer's settings.
-
-### Is there a separate installer for Linux?
-
-No. The Linux download is an AppImage and is intended to run directly after being marked executable.
-
-### Why does my operating system show a security warning?
-
-Independent applications that are not signed or notarized through the operating system's usual verification process may trigger security warnings.
-
-Always verify the source of a download before opening it.
-
-### What if Velqora PDF still does not start?
-
-Please include the following information when reporting a problem:
-
-- Operating system and version.
-- Processor architecture.
-- Velqora PDF version.
-- Exact error message, if available.
-- Description of what happens when launching the application.
-
-## 📬 Need Installation Help?
-
-If you encounter an installation or startup issue, you can contact me through the official Cheesy Studios website.
-
-- Contact Cheesy Studios
-- Official Velqora PDF Download Page
-
-**Velqora PDF 10.3**  
-*Your PDFs. Your Freedom.*
-
-Made independently by Cheesy Studios.
+© 2026 Cheesy Studios. See `LICENSE` for applicable terms.
