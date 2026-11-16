@@ -1,0 +1,8 @@
+Velqora PDF 10.3 — third-party licensing reference: PSF
+
+Component: CPython 3.11
+Upstream: https://www.python.org/downloads/
+
+This ZIP is a license-specific reference package, NOT a complete source distribution of the upstream component.
+Third-party code remains under its original applicable licenses. No claim is made that all Velqora PDF files in this archive are licensed under PSF.
+See THIRD_PARTY.md and verify the exact component licenses before publishing.

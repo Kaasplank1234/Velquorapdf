@@ -1,0 +1,8 @@
+Velqora PDF 10.3 — third-party licensing reference: HPND-Pillow
+
+Component: Pillow 11.0.0
+Upstream: https://github.com/python-pillow/Pillow/tree/11.0.0
+
+This ZIP is a license-specific reference package, NOT a complete source distribution of the upstream component.
+Third-party code remains under its original applicable licenses. No claim is made that all Velqora PDF files in this archive are licensed under HPND-Pillow.
+See THIRD_PARTY.md and verify the exact component licenses before publishing.

@@ -1,0 +1,8 @@
+Velqora PDF 10.3 — third-party licensing reference: LGPL-3.0
+
+Component: PySide6 / Qt / Shiboken 6.5.3 (license options vary by component)
+Upstream: https://code.qt.io/cgit/pyside/pyside-setup.git/
+
+This ZIP is a license-specific reference package, NOT a complete source distribution of the upstream component.
+Third-party code remains under its original applicable licenses. No claim is made that all Velqora PDF files in this archive are licensed under LGPL-3.0.
+See THIRD_PARTY.md and verify the exact component licenses before publishing.

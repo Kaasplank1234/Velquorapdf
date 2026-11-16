@@ -1,0 +1,8 @@
+Velqora PDF 10.3 — third-party licensing reference: AGPL-3.0
+
+Component: PyMuPDF / MuPDF 1.24.11
+Upstream: https://github.com/pymupdf/PyMuPDF/tree/1.24.11
+
+This ZIP is a license-specific reference package, NOT a complete source distribution of the upstream component.
+Third-party code remains under its original applicable licenses. No claim is made that all Velqora PDF files in this archive are licensed under AGPL-3.0.
+See THIRD_PARTY.md and verify the exact component licenses before publishing.

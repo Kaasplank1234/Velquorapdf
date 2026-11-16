@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Velqora PDF
+Comment=Read, edit and scan PDF documents offline
+Exec=velqora-pdf %f
+Icon=org.velqora.pdf
+Terminal=false
+Categories=Office;Viewer;
+MimeType=application/pdf;

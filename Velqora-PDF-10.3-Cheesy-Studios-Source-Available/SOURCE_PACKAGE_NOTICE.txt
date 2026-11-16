@@ -1,0 +1,5 @@
+Velqora PDF — source-available project files
+
+This archive contains application source, build scripts, tests, and supporting project files, plus the proposed Velqora PDF Source-Available License.
+
+It excludes bundled third-party assets, fonts, OCR language data, and nested older archives. The ownership/licensing of each file has not been independently verified. Some dependencies may impose obligations on the combined application (notably PyMuPDF/MuPDF AGPL). Do not assume the custom license governs third-party code or overrides copyleft obligations.
