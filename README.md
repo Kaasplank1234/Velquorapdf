@@ -1,117 +1,135 @@
 # Velqora PDF 10.3
 
-**Your PDFs. Your Freedom.**
+### Your PDFs. Your Freedom.
 
-**A free, powerful and offline PDF editor for Windows, macOS and Linux.** Edit existing PDF text, annotate documents, organize pages and make scanned PDFs searchable — without subscriptions, accounts, OCR credits or mandatory cloud services.
+**A powerful, completely free and offline PDF editor for Windows, macOS and Linux.**
 
-[**Download Velqora PDF**](https://github.com/Kaasplank1234/Velquorapdf/releases/tag/Download) · [**Official website**](https://velqorapdf.pages.dev/) · [**Get support**](https://www.cheesy-studios.22web.org/neem-contact-met-ons-op-faq)
+Edit existing PDF text, annotate documents, organize pages and make scanned PDFs searchable — all from your desktop. No subscriptions, no accounts, no OCR credits and no unnecessary cloud services.
 
-> **Free to use · Source-available · Local document processing**
->
-> Velqora PDF's source code is available for inspection and private modification. Publishing or distributing modified versions of Cheesy Studios-owned code requires written permission, subject to applicable third-party licenses. **Source-available is not the same as OSI-approved open source.**
+**[Download Velqora PDF](https://github.com/Kaasplank1234/Velquorapdf/releases/tag/Download)** · **[Official Website](https://velqorapdf.pages.dev/)** · **[Get Support](https://www.cheesy-studios.22web.org/neem-contact-met-ons-op-faq)**
+
+**Free to use · Offline-first · Source-available · Cross-platform**
+
+---
 
 ## Why Velqora PDF?
 
-PDF editing should be straightforward, accessible and free.
+PDF editing should be simple, accessible and affordable.
 
-Velqora PDF combines text editing, annotations, page management and optical character recognition (OCR) in one modern desktop application. Whether you're editing a document, reviewing a PDF or making scanned pages searchable, Velqora PDF provides essential tools without requiring an online account.
+Velqora PDF is an independent desktop application that combines text editing, annotations, page management and offline OCR in one modern workspace.
 
-Supported document-processing features work locally, so you don't have to upload your PDFs to an online editor.
+Your documents can be processed locally, without uploading them to an online PDF editor.
 
-**What makes Velqora PDF different?**
+### Key benefits
 
-- **Completely free:** No subscriptions, premium editing tools or OCR credits.
-- **Offline-first:** Edit PDFs and recognize scanned text without an internet connection.
-- **Privacy-focused:** Supported document-processing operations run locally.
-- **Cross-platform:** Available for Windows, macOS Intel, macOS Apple Silicon and Linux.
-- **Modern workspace:** Convenient editing, annotation and navigation tools.
-- **Source-available:** Explore the code and make private modifications under the applicable license terms.
+- **Completely free:** No subscriptions, paid editing features or OCR credits.
+- **Privacy-focused:** Supported PDF operations run locally.
+- **Offline-first:** Core editing and OCR features work without internet access.
+- **Cross-platform:** Available for Windows, macOS and Linux.
+- **Modern interface:** Organized editing tools and a dedicated Comments panel.
+- **Source-available:** Inspect and privately modify the source code under the applicable license terms.
+
+---
 
 ## Features
 
-### Edit text and images
+### Edit PDF text and images
 
-- Edit existing PDF text, retaining original formatting and fonts where possible.
-- Change text colors and choose alternative fonts when needed.
-- Add text, movable text boxes and images.
-- Adjust font families, sizes, colors and image positions.
-- Work directly with existing PDF documents without converting them to another format first.
+- Edit existing PDF text while preserving original formatting and fonts where possible.
+- Change text colors and choose alternative fonts.
+- Add new text, movable text boxes and images.
+- Customize font families, sizes and colors.
+- Move images and adjust document elements.
 
-Some complex PDF layouts or embedded fonts may limit how accurately original formatting can be preserved.
-
-### Annotate and draw
+### Highlight, annotate and draw
 
 - Highlight text in **yellow, green, blue, pink or orange**.
 - Strike through text while preserving its original color, including multicolored selections.
-- Draw directly on pages using a **pen, marker or brush**.
-- Customize drawing colors and line thickness.
+- Draw with a pen, marker or brush.
+- Customize drawing colors and line thicknesses.
 - Add notes, underlines and shapes.
-- Undo edits or remove individual annotations.
-- Find drawing and highlighting controls together in the redesigned **Comments** panel.
+- Undo edits and remove individual annotations.
+- Access annotation tools through the redesigned **Comments** panel.
 
 ### Offline OCR
 
-- Recognize text in scanned PDF pages locally, including background recognition.
+Turn scanned PDFs into searchable documents without uploading them to a server.
+
+- Recognize text locally, including background processing.
 - Search, select and copy recognized text.
-- Rerun OCR on an individual page or an entire document.
-- Make scanned documents easier to search and work with.
-- Supported languages: **Dutch, English, German, French, Spanish and Turkish**.
+- Run OCR on individual pages or entire documents.
+- No OCR credits, subscriptions or additional payments.
 
-**No OCR credits, external account or additional OCR payment required.**
+**Supported languages:** Dutch, English, German, French, Spanish and Turkish.
 
-OCR accuracy depends on scan quality, document layout and language.
+OCR accuracy depends on the quality and layout of the scanned document.
 
-### Manage pages
+### Organize PDF pages
 
 - Add, delete, rotate and reorder pages.
-- Merge multiple PDFs and extract selected pages.
-- Navigate with thumbnails, continuous scrolling and page jumping.
-- Organize documents without relying on external online services.
+- Merge multiple PDF documents.
+- Extract selected pages.
+- Navigate using thumbnails, continuous scrolling and page jumping.
 
-### Learn as you go
+### Built-in Help Center
 
 - Interactive welcome tour.
-- Built-in, searchable Help Center with offline guides.
-- Helpful explanations for common editing and document-management tasks.
+- Searchable Help Center.
+- Offline help documentation.
+- Guidance for common PDF editing tasks.
 
-## Downloads
+---
 
-Download official builds directly from [GitHub Releases](https://github.com/Kaasplank1234/Velquorapdf/releases/tag/Download). Choose the version for your operating system below.
+## Download Velqora PDF
 
-| Platform | Direct download | Architecture |
-| --- | --- | --- |
-| Windows | [Download Windows ZIP](https://github.com/Kaasplank1234/Velquorapdf/releases/download/Download/Velqora-PDF-10.3-Windows-x64.zip) | x86-64 (Intel / AMD) |
-| macOS — Intel | [Download Intel DMG](https://github.com/Kaasplank1234/Velquorapdf/releases/download/Download/Velqora-PDF-10.3-macOS-Intel.dmg) | Intel 64-bit |
-| macOS — Apple Silicon | [Download Apple Silicon DMG](https://github.com/Kaasplank1234/Velquorapdf/releases/download/Download/Velqora-PDF-10.3-macOS-AppleSilicon.dmg) | Apple M-series |
-| Linux | [Download Linux AppImage](https://github.com/Kaasplank1234/Velquorapdf/releases/download/Download/Velqora-PDF-10.3-Linux-x86_64.AppImage) | x86-64 (Intel / AMD) |
+**Version 10.3 — Official Downloads**
 
-All four files are distributed through the official [Velqora PDF 10.3 GitHub release](https://github.com/Kaasplank1234/Velquorapdf/releases/tag/Download).
+All official builds are distributed through **GitHub Releases**.
 
-**GitHub Releases is the official download source for Velqora PDF.**
+| Operating system | Download | Architecture |
+|---|---|---|
+| Windows | [Download Windows ZIP](https://github.com/Kaasplank1234/Velquorapdf/releases/download/Download/Velqora-PDF-10.3-Windows-x64.zip) | x86-64 |
+| macOS Intel | [Download Intel DMG](https://github.com/Kaasplank1234/Velquorapdf/releases/download/Download/Velqora-PDF-10.3-macOS-Intel.dmg) | Intel 64-bit |
+| macOS Apple Silicon | [Download Apple Silicon DMG](https://github.com/Kaasplank1234/Velquorapdf/releases/download/Download/Velqora-PDF-10.3-macOS-AppleSilicon.dmg) | Apple M-series |
+| Linux | [Download Linux AppImage](https://github.com/Kaasplank1234/Velquorapdf/releases/download/Download/Velqora-PDF-10.3-Linux-x86_64.AppImage) | x86-64 |
+
+**[View Official GitHub Releases](https://github.com/Kaasplank1234/Velquorapdf/releases)**
+
+For the latest available downloads, release notes and version information, always use the official GitHub repository.
+
+---
+
+## Installation
 
 ### Windows
 
-1. Download the Windows ZIP and select **Extract All**.
-2. Open the extracted folder and run `Velqora PDF.exe`.
-3. Keep the extracted application files together; don't run the executable directly from inside the ZIP.
+1. Download the Windows ZIP.
+2. Right-click the archive and select **Extract All**.
+3. Open the extracted folder.
+4. Launch `Velqora PDF.exe`.
 
-Windows may show a SmartScreen warning for independently distributed software. Verify that your download came from the official GitHub release before deciding whether to proceed.
+Keep the extracted application files together.
+
+Windows SmartScreen may display a warning for independently distributed software. Verify that your download came from the official release before deciding whether to proceed.
 
 ### macOS
 
-1. Download the DMG matching your Mac's processor (**Apple menu → About This Mac**).
-2. Open the DMG and drag **Velqora PDF** into **Applications**.
-3. Open the application from Finder.
+1. Download the DMG matching your processor.
+2. Open the downloaded DMG.
+3. Drag Velqora PDF into **Applications**.
+4. Launch the application from Finder.
 
-**Unsigned / not notarized:** macOS may block the first launch. After verifying the download, check **System Settings → Privacy & Security** for an **Open Anyway** option. On older macOS versions, look under **System Preferences → Security & Privacy**.
+Velqora PDF is currently unsigned and not notarized by Apple. macOS may block the initial launch.
 
-See [Apple's guidance on opening Mac apps safely](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac).
+After verifying the download, check **System Settings → Privacy & Security** for the available opening options.
 
-**Compatibility:** The Intel build targets macOS 11 Big Sur or later and has been tested on macOS 15. Direct testing on macOS 11.7.11 is still pending. The Apple Silicon build is intended for compatible Apple Silicon Macs.
+For additional guidance, consult [Apple's official documentation](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac).
+
+**Compatibility:** The Intel build targets macOS 11 Big Sur or later and has been tested on macOS 15. Direct testing on macOS 11.7.11 remains pending.
 
 ### Linux
 
-Download the AppImage, then run:
+Download the Linux AppImage and run:
 
 ```bash
 cd ~/Downloads
@@ -119,78 +137,67 @@ chmod +x Velqora-PDF-10.3-Linux-x86_64.AppImage
 ./Velqora-PDF-10.3-Linux-x86_64.AppImage
 ```
 
-Alternatively, use your file manager to mark the AppImage executable and launch it, if your desktop environment supports this.
+If the AppImage reports a FUSE-related error, try the `--appimage-extract-and-run` option if supported.
 
-**Troubleshooting:**
+**Compatibility:** The Linux AppImage passed 75 automated checks in a test environment. Direct GUI testing on Ubuntu and Manjaro is still pending.
 
-- **Permission denied:** Run the `chmod +x` command above.
-- **FUSE-related error:** Try `./Velqora-PDF-10.3-Linux-x86_64.AppImage --appimage-extract-and-run` (if supported by the AppImage).
-- **Exec format error:** Run `uname -m` and confirm it reports `x86_64`.
-- **Nothing happens / missing libraries:** Launch from a terminal, read the error output and check for distribution-specific dependencies.
+---
 
-**Compatibility:** The Linux AppImage passed 75 automated checks in a test environment. Direct GUI testing on Ubuntu and Manjaro is still pending; compatibility across distributions is not guaranteed.
+## Privacy and offline processing
 
-## Privacy and offline use
+Velqora PDF is designed to keep document processing on your computer.
 
-Velqora PDF is designed for local document processing:
+- No cloud uploads are required for supported editing and OCR operations.
+- No user account is required.
+- No subscription is necessary.
+- No OCR credits or external OCR processing fees.
+- Core document-processing functionality works offline.
+- Built-in help documentation is available offline.
 
-- PDF editing and OCR do not require cloud uploads.
-- No account or subscription is required.
-- No OCR credits or additional processing fees are required.
-- Core document-processing features work without an internet connection.
-- The built-in help content is available offline.
+Your PDF files remain on your device during supported offline operations.
 
-**Your documents remain on your computer during supported offline operations.**
+This does not imply that every operating-system component or third-party dependency is incapable of network activity.
 
-These statements describe Velqora PDF's intended document-processing behavior and do not imply that every operating-system or third-party component is incapable of network activity.
+---
 
 ## Source code and development
 
-Velqora PDF's source code is publicly available on GitHub for inspection, learning and private experimentation under the applicable licenses.
+Velqora PDF's source code is publicly available for inspection and private experimentation under the applicable licenses.
 
-The repository currently contains extracted source-code directories rather than downloadable source archives.
+**[Browse the Application Source Code](https://github.com/Kaasplank1234/Velquorapdf/tree/main/Velqora-PDF-10.3-Cheesy-Studios-Source-Available/src)**
 
-**[Browse the Python source code](https://github.com/Kaasplank1234/Velquorapdf/tree/main/Velqora-PDF-10.3-Cheesy-Studios-Source-Available/src)** · **[View additional project files](https://github.com/Kaasplank1234/Velquorapdf/tree/main/Velqora-PDF-10.3-Remaining-Project-Files)**
+**[Browse Additional Project Files](https://github.com/Kaasplank1234/Velquorapdf/tree/main/Velqora-PDF-10.3-Remaining-Project-Files)**
 
 ### Repository structure
 
-| Directory or file | Description |
-| --- | --- |
-| `Velqora-PDF-10.3-Cheesy-Studios-Source-Available/` | Python application source, tests, scripts and build configurations |
-| `Velqora-PDF-10.3-Remaining-Project-Files/` | Additional application assets and project documentation |
-| `Velqora-PDF-10.3-License-*/` | Third-party license texts and notices |
-| `README.md` | Project overview and installation instructions |
-| `LICENSE` | Velqora PDF Source-Available License 1.0 |
+| Directory | Contents |
+|---|---|
+| `Velqora-PDF-10.3-Cheesy-Studios-Source-Available/` | Python source, scripts, tests, dependency files and build configurations |
+| `Velqora-PDF-10.3-Remaining-Project-Files/` | Additional assets and project documentation |
+| `Velqora-PDF-10.3-License-*/` | Third-party license information |
+| `README.md` | Project overview |
+| `LICENSE` | Source-Available License 1.0 |
 
-The repository includes source files and build-related resources for Velqora PDF 10.3. However, complete reproducibility of every published binary from these files has not yet been verified.
+The repository may be reorganized into a more conventional Python project structure in a future update.
 
-Some third-party dependencies or resources may need to be obtained separately.
+### Building from source
 
-## Source availability and licensing
+The repository contains Python application modules, dependency specifications and platform-specific build scripts.
 
-Velqora PDF is **source-available**, **not open source** under the Open Source Initiative definition.
+However, complete reproducibility of every published Velqora PDF 10.3 binary has not yet been verified.
 
-The intended permissions for independently licensable Cheesy Studios-owned code are:
+Some third-party development dependencies and resources may need to be obtained separately.
 
-| Activity | Permission |
-| --- | --- |
-| View and download source code | Allowed |
-| Use the software for personal or internal purposes | Allowed |
-| Modify source code privately | Allowed |
-| Study and experiment with source code | Allowed |
-| Publish or distribute modified versions | **Not allowed without written permission** |
-| Redistribute Cheesy Studios-owned source code or reuse it in another publicly distributed product | **Not allowed without written permission** |
+Review the dependency files, build scripts and third-party notices before attempting a build.
 
-**The actual [LICENSE](https://github.com/Kaasplank1234/Velquorapdf/blob/main/LICENSE) file controls the custom license terms.** This README is only a summary.
+---
 
-Third-party components remain subject to their respective licenses. These licenses may grant additional rights or impose obligations affecting the combined application.
+## Third-party software
 
-### Third-party dependencies
-
-Velqora PDF uses several third-party software components.
+Velqora PDF uses third-party software components, including:
 
 | Component | Version | License |
-| --- | --- | --- |
+|---|---|---|
 | PyMuPDF / MuPDF | 1.24.11 | AGPL-3.0 or commercial |
 | PySide6 / Qt / Shiboken | 6.5.3 | Component-specific LGPL/GPL/commercial |
 | Pillow | 11.0.0 | HPND |
@@ -199,43 +206,83 @@ Velqora PDF uses several third-party software components.
 | PyInstaller | 6.11.1 | GPL with bootloader exception |
 | Tesseract OCR language data | Pinned upstream version | Apache-2.0 |
 
-Some dependencies are used during development or packaging and may not be included in every application build.
+Some components are used only during development or packaging.
 
-**Important licensing notice:** PyMuPDF/MuPDF is available under the AGPL or a commercial license. AGPL obligations may affect the combined application, including source-code availability and redistribution rights. Compatibility with Velqora PDF's custom Source-Available License has not yet been independently established.
+All third-party components retain their applicable copyright notices and license terms.
 
-Separating third-party licensing materials into different directories does not remove applicable license obligations.
+**Licensing notice:** PyMuPDF/MuPDF is available under the AGPL or a commercial license. AGPL obligations may affect the combined application, including redistribution and source-code rights. Compatibility with the custom Velqora PDF license has not yet been independently established.
+
+---
+
+## Licensing
+
+Velqora PDF uses the **Velqora PDF Source-Available License 1.0** for independently licensable material owned by Cheesy Studios.
+
+**Source-available is not the same as OSI-approved open source.**
+
+The intended permissions for Cheesy Studios-owned material are:
+
+| Activity | Permission |
+|---|---|
+| View and download source code | Allowed |
+| Use the software for personal or internal purposes | Allowed |
+| Modify source code privately | Allowed |
+| Study and experiment with source code | Allowed |
+| Publish modified versions | Written permission required |
+| Redistribute Cheesy Studios-owned source code | Written permission required |
+| Incorporate Cheesy Studios-owned code into publicly distributed products | Written permission required |
+
+These restrictions apply only to the extent permitted by law and other applicable licenses.
+
+Third-party open-source rights and obligations remain in effect and may also apply to the combined application.
+
+See the complete [LICENSE](https://github.com/Kaasplank1234/Velquorapdf/blob/main/LICENSE) for the custom license terms.
+
+---
 
 ## Known limitations
 
 Velqora PDF continues to evolve as an independent project.
 
-- Complex PDF layouts and embedded fonts may limit text-editing accuracy.
-- OCR results depend on document quality and language.
+- Complex PDF layouts may not always preserve their original formatting during editing.
+- OCR accuracy depends on document quality.
 - macOS builds are currently unsigned and not notarized.
 - Direct testing on macOS 11 Big Sur remains pending.
 - Linux compatibility may vary between distributions.
-- Complete reproducibility of the published binaries has not yet been established.
+- Full reproducibility of the published binaries from the available source has not yet been verified.
 - Third-party licensing compatibility requires further review.
+
+---
 
 ## Support and feedback
 
-Found a bug or need help getting started? Please include your **operating system/version**, **processor architecture**, **Velqora PDF version**, and any **exact error message**.
+Need assistance or found a bug?
 
-- [Official Velqora PDF website](https://velqorapdf.pages.dev/)
-- [Download Velqora PDF](https://github.com/Kaasplank1234/Velquorapdf/releases/tag/Download)
-- [Report a bug or request a feature](https://github.com/Kaasplank1234/Velquorapdf/issues)
+Please include your operating system, processor architecture, Velqora PDF version and the exact error message when reporting an issue.
+
+- [Official Website](https://velqorapdf.pages.dev/)
+- [Official Downloads](https://github.com/Kaasplank1234/Velquorapdf/releases)
+- [Report an Issue](https://github.com/Kaasplank1234/Velquorapdf/issues)
 - [Contact Cheesy Studios](https://www.cheesy-studios.22web.org/neem-contact-met-ons-op-faq)
 
-## About
+---
 
-Velqora PDF is an independent hobby project by **Cheesy Studios**.
+## About Cheesy Studios
 
-I created it to make useful PDF tools more accessible without recurring fees, unnecessary online services or restrictions on essential editing features.
+Velqora PDF is an independent hobby project developed under **Cheesy Studios**.
 
-My goal is to develop practical, modern software that combines useful functionality, straightforward design and respect for users' privacy.
+I created Velqora PDF because useful PDF editing tools should be accessible without expensive subscriptions, unnecessary restrictions on everyday functionality or mandatory online services.
 
-I continue to improve Velqora PDF's editing experience, offline functionality, performance and platform support.
+My goal is to create practical software that combines modern design, useful features and respect for users' privacy.
+
+I continue improving Velqora PDF's usability, performance and cross-platform support.
 
 **Made independently. Built with curiosity.**
 
-© 2026 Cheesy Studios. See `LICENSE` and the applicable third-party license notices for legal terms.
+---
+
+**Velqora PDF 10.3 — Your PDFs. Your Freedom.**
+
+© 2026 Cheesy Studios.
+
+See `LICENSE` and the applicable third-party license notices for legal terms.
