@@ -1,0 +1,18 @@
+# Python-generated caches and local build artifacts
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# Temporary reports and local outputs
+*.log
+report.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
