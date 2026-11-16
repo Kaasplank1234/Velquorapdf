@@ -4,7 +4,7 @@
 
 **A free, offline PDF editor for Windows, macOS and Linux.** Edit documents, annotate pages, organize PDFs and make scanned documents searchable — without subscriptions, accounts or OCR credits.
 
-[**Download Velqora PDF**](https://kaasplank3333.itch.io/velqora-pdf) · [**Official website**](https://velqorapdf.pages.dev/) · [**Get support**](https://www.cheesy-studios.22web.org/neem-contact-met-ons-op-faq)
+[**Download Velqora PDF**](https://github.com/Kaasplank1234/Velquorapdf/releases/tag/Download) · [**Official website**](https://velqorapdf.pages.dev/) · [**Get support**](https://www.cheesy-studios.22web.org/neem-contact-met-ons-op-faq)
 
 > **Free to use · Source-available · Local document processing**
 >
@@ -53,14 +53,16 @@ PDF editing should be straightforward and accessible. Velqora PDF brings essenti
 
 ## Downloads
 
-Download official builds from [Velqora PDF on itch.io](https://kaasplank3333.itch.io/velqora-pdf).
+Download official builds directly from [GitHub Releases](https://github.com/Kaasplank1234/Velquorapdf/releases/tag/Download). Choose the version for your operating system below.
 
-| Platform | File | Architecture |
+| Platform | Direct download | Architecture |
 | --- | --- | --- |
-| Windows | `Velqora-PDF-10.3-Windows-x64.zip` | x86-64 (Intel / AMD) |
-| macOS — Intel | `Velqora-PDF-10.3-macOS-Intel.dmg` | Intel 64-bit |
-| macOS — Apple Silicon | `Velqora-PDF-10.3-macOS-AppleSilicon.dmg` | Apple M-series |
-| Linux | `Velqora-PDF-10.3-Linux-x86_64.AppImage` | x86-64 (Intel / AMD) |
+| Windows | [Download Windows ZIP](https://github.com/Kaasplank1234/Velquorapdf/releases/download/Download/Velqora-PDF-10.3-Windows-x64.zip) | x86-64 (Intel / AMD) |
+| macOS — Intel | [Download Intel DMG](https://github.com/Kaasplank1234/Velquorapdf/releases/download/Download/Velqora-PDF-10.3-macOS-Intel.dmg) | Intel 64-bit |
+| macOS — Apple Silicon | [Download Apple Silicon DMG](https://github.com/Kaasplank1234/Velquorapdf/releases/download/Download/Velqora-PDF-10.3-macOS-AppleSilicon.dmg) | Apple M-series |
+| Linux | [Download Linux AppImage](https://github.com/Kaasplank1234/Velquorapdf/releases/download/Download/Velqora-PDF-10.3-Linux-x86_64.AppImage) | x86-64 (Intel / AMD) |
+
+All four files are hosted in the official [Velqora PDF 10.3 GitHub release](https://github.com/Kaasplank1234/Velquorapdf/releases/tag/Download).
 
 ### Windows
 
@@ -131,7 +133,7 @@ The intended permissions for the Velqora PDF-owned code are:
 Found a bug or need help getting started? Please include your **operating system/version**, **processor architecture**, **Velqora PDF version**, and any **exact error message**.
 
 - [Official Velqora PDF website](https://velqorapdf.pages.dev/)
-- [Download Velqora PDF](https://kaasplank3333.itch.io/velqora-pdf)
+- [Download Velqora PDF](https://github.com/Kaasplank1234/Velquorapdf/releases/tag/Download)
 - [Contact Cheesy Studios](https://www.cheesy-studios.22web.org/neem-contact-met-ons-op-faq)
 
 ## About
