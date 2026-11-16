@@ -1,6 +1,6 @@
 # Velqora PDF 10.3
 
-**Your PDFs. Your Freedom.**
+### Your PDFs. Your Freedom.
 
 Velqora PDF is a free, offline PDF editor for Windows, macOS and Linux. The project keeps a local-first workflow without subscriptions, cloud uploads, or external OCR credits. This repository preserves the extracted source package, the remaining project files, and the applicable third-party notices in a browsable layout.
 
@@ -91,7 +91,9 @@ The repository contains AGPL-licensed dependencies, including PyMuPDF/MuPDF, whi
 
 Velqora PDF is source-available rather than open source as defined by the Open Source Initiative. The application remains locally processable and source-inspectable, but the actual rights granted are governed by the repository `LICENSE` file, not by this README summary alone.
 
-## About
+---
+
+## About Cheesy Studios
 
 Velqora PDF is an independent project by Cheesy Studios. It keeps the project identity and source-available licensing terms intact while making the extracted files easier to browse and review.
 
