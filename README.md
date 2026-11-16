@@ -140,7 +140,6 @@ Ready to experience PDF editing without subscriptions?
 
 Velqora PDF 10.3 is available for macOS, Windows and Linux.
 
-👇 Scroll down to the **Download** section to choose your version.
 
 Need help installing or opening the application? Detailed installation instructions and troubleshooting guides for macOS, Windows and Linux are available in the **Install Instructions** section below the downloads.
 
