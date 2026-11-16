@@ -1,4 +1,4 @@
-# Python-generated caches and local build artifacts
+# Python project housekeeping
 
 __pycache__/
 *.pyc
@@ -7,12 +7,23 @@ __pycache__/
 
 # Virtual environments
 .venv/
+.venv-build/
 venv/
 
-# Temporary reports and local outputs
+# Build outputs and packaged artifacts
+build/
+dist/
 *.log
 report.json
+*.AppImage
+*.dmg
+*.zip
 
-# OS-specific files
+# OS-generated files
 .DS_Store
 Thumbs.db
+
+# Editor / local metadata
+.vscode/
+.idea/
+

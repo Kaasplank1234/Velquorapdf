@@ -1,17 +1,24 @@
-# Afhankelijkheden
+# Third-party notices and licensing overview
 
-| Bibliotheek | Versie | Licentie / bron |
-| --- | --- | --- |
-| PyMuPDF / MuPDF | 1.24.11 | AGPL-3.0; https://github.com/pymupdf/PyMuPDF/tree/1.24.11 |
-| PySide6 / Qt / Shiboken | 6.5.3 | LGPLv3/GPLv3/commerciële keuzelicenties per component; LGPL-route; https://code.qt.io/cgit/pyside/pyside-setup.git/ en https://www.qt.io/licensing/open-source-lgpl-obligations |
-| Pillow | 11.0.0 | HPND/Pillow notices; https://github.com/python-pillow/Pillow/tree/11.0.0 |
-| NumPy | 1.26.4 | BSD-3-Clause; https://github.com/numpy/numpy/tree/v1.26.4; workaround voor Qt bindings; niet nodig in frozen app |
-| CPython | 3.11 | PSF License; https://www.python.org/downloads/ |
-| PyInstaller (buildtool) | 6.11.1 | GPL met bootloader-uitzondering; https://pyinstaller.org/en/v6.11.1/license.html |
-| Tesseract (optioneel, niet gebundeld) | lokaal geïnstalleerd | Apache-2.0; https://github.com/tesseract-ocr/tesseract |
+This source package is distributed together with the project-owned license and preserved third-party notices. The project-owned code is governed by the root `LICENSE` in this repository, while dependency rights remain under their own applicable licenses.
 
-De editor gebruikt geen qpdf, Poppler, OCRmyPDF of pypdf. Voeg geen ongebruikte afhankelijkheden toe alleen omdat ze in het oorspronkelijke wensenpakket stonden.
+## Important licensing note
 
-De macOS-build neemt licentieteksten en package metadata mee via PyInstaller. De bron-ZIP bevat de eigen AGPL-licentie en dependencyversies; upstream-broncode is via bovenstaande links beschikbaar en niet volledig in dit kleine projectarchief opgenomen. Bij een daadwerkelijke binaryrelease moeten notices en corresponderende dependencybronnen blijvend beschikbaar worden gesteld. LGPL-bibliotheken blijven dynamisch; geen restrictie op vervanging of reverse engineering voor debugging van wijzigingen toevoegen.
+The custom source-available license for Velqora PDF does not override third-party obligations. In particular, PyMuPDF/MuPDF is AGPL-3.0 and may impose distribution or network-use obligations that differ from the project-owned license.
 
-Velqora 2.0 bundles tessdata_fast language data nld/eng/deu/fra/spa/tur under Apache-2.0; license in assets/tessdata/LICENSE. Pinned source: https://github.com/tesseract-ocr/tessdata_fast/tree/87416418657359cb625c412a48b6e1d6d41c29bd . MuPDF's integrated Tesseract is used instead of a required external executable. Original icons drawn in workspace.py and make_icon.py.
+The repository intentionally keeps the preserved third-party directories for provenance and review. This is not a substitute for legal review before broader redistribution.
+
+## Included dependency notices
+
+- PyMuPDF / MuPDF — AGPL-3.0
+- PySide6 / Qt / Shiboken — LGPL/GPL/commercial licensing depending on component usage
+- Pillow — HPND/Pillow notices
+- NumPy — BSD-3-Clause
+- Tesseract OCR data — Apache-2.0
+- PyInstaller — GPL with bootloader exception
+- CPython — Python Software Foundation license
+
+## Repository notice
+
+The source package and accompanying notices are preserved for review. If this source is redistributed or repackaged beyond the official release, confirm the downstream license obligations before publication.
+
