@@ -1,21 +1,72 @@
-MIT License
+VELQORA PDF SOURCE-AVAILABLE LICENSE
+Version 1.0 — November 2026
 
-Copyright (c) 2026 Cheesy Studios
+Copyright (c) 2026 Cheesy Studios. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+IMPORTANT: THIS IS A SOURCE-AVAILABLE LICENSE, NOT AN OPEN-SOURCE LICENSE.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. DEFINITIONS
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+"Software" means the Velqora PDF source code, documentation, and other material expressly distributed by the copyright holder under this license.
+
+"You" means any person or organization exercising rights under this license.
+
+"Modified Version" means any version of the Software that You change, adapt, translate, or build upon.
+
+"Private Use" means use by You solely for Your own internal purposes, without distributing, publishing, sublicensing, or making the Software or a Modified Version available to another person or organization. Use within an organization does not authorize redistribution to separate legal entities or to the public.
+
+2. PERMISSIONS
+
+Subject to the conditions below, the copyright holder grants You a non-exclusive, worldwide, royalty-free, revocable only for breach license to:
+
+(a) access, read, and download the Software;
+(b) run the Software for personal or internal purposes; and
+(c) modify the Software solely for Private Use, including local testing, experimentation, and learning.
+
+You may make copies reasonably necessary for these permitted activities, provided You retain copyright and license notices.
+
+3. RESTRICTIONS
+
+Unless You first obtain separate written permission from the copyright holder, You may NOT:
+
+(a) publish, distribute, share, sublicense, sell, or otherwise make available any Modified Version, whether as source code, executable files, packages, services that provide access to the modified software, or other forms;
+(b) redistribute or mirror the unmodified source code or Software packages, except for copies strictly necessary for Your permitted Private Use;
+(c) incorporate the Software or substantial portions of it into another project or product that is published, distributed, licensed, sold, or made available to third parties;
+(d) offer the Software or a Modified Version as a hosted service to third parties;
+(e) remove or misrepresent copyright, attribution, or license notices; or
+(f) use the names "Velqora PDF" or "Cheesy Studios," or their logos, in a way that suggests endorsement or official affiliation without permission.
+
+Private modifications may not be published or distributed even if they are offered free of charge and even if their source code is made available.
+
+4. OWNERSHIP AND THIRD-PARTY MATERIALS
+
+The copyright holder retains all rights not expressly granted by this license. No ownership rights are transferred to You.
+
+This license applies only to material that Cheesy Studios has the legal authority to license under these terms. Third-party libraries, components, datasets, fonts, icons, and other materials remain subject to their respective licenses. Nothing in this license restricts rights that a third-party license independently grants You.
+
+If a file or component includes a different applicable license notice, that license governs that file or component to the extent required by its copyright holder.
+
+5. CONTRIBUTIONS
+
+No contribution rights or assignment are implied by this license. Before submitting code for inclusion in the official Software, contact the copyright holder to agree on contribution terms. Do not assume that a pull request grants the copyright holder permission to relicense Your contribution.
+
+6. TERMINATION
+
+Your rights under this license terminate automatically if You violate its conditions. If You stop the violation within 30 days after becoming aware of it, the license is reinstated for that violation unless the copyright holder has notified You otherwise in writing before the cure period ends. Termination does not affect rights You may independently hold under other applicable licenses.
+
+7. NO WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE, WHETHER IN CONTRACT, TORT, OR OTHERWISE. NOTHING HERE EXCLUDES LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED.
+
+9. PERMISSIONS AND CONTACT
+
+For permission to publish or distribute a Modified Version, redistribute source code, or use the Software in another publicly distributed product, contact Cheesy Studios through its official website:
+https://www.cheesy-studios.22web.org/
+
+A separate written agreement may grant additional permissions.
+
+END OF LICENSE
